@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/david-clubb/"}
+{"dg-publish":true,"permalink":"/david-clubb/","dgPassFrontmatter":true}
 ---
 
 ### Associated with
