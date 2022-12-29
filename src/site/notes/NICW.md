@@ -10,4 +10,13 @@
 - [Pixelfed](https://pix.toot.wales/i/web/profile/475222109687326198)
 - [LinkedIn](https://www.linkedin.com/company/26268509/)
 - [Twitter](https://nitter.mint.lgbt/InfraCommCymru)
-- 
+
+#### Commissioners
+- [[Helen Armstrong\|Helen Armstrong]]
+- [[Jenifer Baxter\|Jenifer Baxter]]
+- [[Stephen Brooks\|Stephen Brooks]]
+- [[David Clubb\|David Clubb]]
+- [[Aleena Khan\|Aleena Khan]]
+- [[Eurgain Powell\|Eurgain Powell]]
+- [[Eluned Parrott\|Eluned Parrott]]
+- [[Nick Tune\|Nick Tune]]
