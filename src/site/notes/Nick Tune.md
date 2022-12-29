@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nick-tune/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/nick-tune/"}
 ---
 
 ### Associated with
