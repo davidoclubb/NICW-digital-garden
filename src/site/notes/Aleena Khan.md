@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aleena-khan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aleena-khan/"}
 ---
 
 ### Associated with
