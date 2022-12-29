@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helen-armstrong/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/helen-armstrong/"}
 ---
 
 ### Associated with
