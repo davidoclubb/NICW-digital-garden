@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dmcc/"}
+{"dg-publish":true,"permalink":"/dmcc/","dgPassFrontmatter":true}
 ---
 
 Deputy Minister for Climate Change
