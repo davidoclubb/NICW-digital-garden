@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eurgain-powell/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/eurgain-powell/"}
 ---
 
 ### Associated with
