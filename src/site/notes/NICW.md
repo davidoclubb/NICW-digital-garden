@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nicw/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/nicw/"}
 ---
 
 ### The National Infrastructure Commission for Wales
