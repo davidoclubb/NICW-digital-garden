@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stephen-brooks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/stephen-brooks/"}
 ---
 
 ### Associated with
