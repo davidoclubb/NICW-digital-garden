@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ella-saltmarshe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ella-saltmarshe/"}
 ---
 
 ### Associated with
