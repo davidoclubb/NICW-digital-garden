@@ -4,4 +4,4 @@
 
 ### Associated with
 - [[NICW\|NICW]]
-	- [[Deputy Chair\|Deputy Chair]] from June 2022
+	- [[Deputy Chair\|Deputy Chair]] 2022-2025
