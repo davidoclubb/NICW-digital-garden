@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eluned-parrott/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/eluned-parrott/"}
 ---
 
 ### Associated with
