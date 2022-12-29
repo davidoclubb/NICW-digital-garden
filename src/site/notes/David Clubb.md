@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/david-clubb/"}
 ---
 
-<img src="https://nationalinfrastructurecommission.wales/wp-content/uploads/2021/11/David-Clubb-formal-headshot-2.jpg">
+
+<img  src="https://nationalinfrastructurecommission.wales/wp-content/uploads/2021/11/David-Clubb-formal-headshot-2.jpg" height="200">
+
 ### Associated with
 - [[NICW\|NICW]]
 	- [[Chair\|Chair]] from November 2021
