@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/daily-template/"}
 ---
 
 # {{date:YYYY-MM-DD}}
