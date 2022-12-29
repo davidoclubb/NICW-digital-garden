@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jenifer-baxter/"}
+{"dg-publish":true,"permalink":"/jenifer-baxter/","dgPassFrontmatter":true}
 ---
 
 ### Associated with
