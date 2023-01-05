@@ -3,9 +3,6 @@
 ---
 
 
-<img src="https://nationalinfrastructurecommission.wales/wp-content/uploads/2022/07/NICW-overlay.svg">
-
-
 ### About the NICW digital garden
 
 1. This is a proof of concept pilot to test the ability to publish information more regularly and in more detail, to improve transparency about how [[NICW\|NICW]] operates
