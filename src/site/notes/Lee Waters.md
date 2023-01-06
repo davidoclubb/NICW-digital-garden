@@ -3,6 +3,7 @@
 ---
 
 <img src="https://business.senedd.wales/UserData/8/7/9/Info00004978/bigpic.jpg"  height="200">
+
 ### Associated with
 - [[Welsh Government\|Welsh Government]]
 	- [[DMCC\|DMCC]]
