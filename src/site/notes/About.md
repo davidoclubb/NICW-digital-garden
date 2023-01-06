@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/about/","tags":"gardenEntry"}
 ---
 
-***
-🗣️📱🤝🏴󠁧󠁢󠁷󠁬󠁳󠁿 |[Website](https://nationalinfrastructurecommission.wales)|[Mastodon](https://toot.wales/@NICW)|[Pixelfed](https://pix.toot.wales/NICW)|[Linkedin](https://www.linkedin.com/company/26268509/)|[Twitter](https://twitter.com/InfraCommCymru)|
-***
 
 ### About the NICW digital garden
 
@@ -16,3 +13,10 @@
 ### How to use
 
 1. Feel free to 'browse' the garden using the links on the left hand side, or the local graph on the right hand side
+
+
+***
+<p style="text-align: center;">NICW communication channels</p>
+
+󠁧 |[Website](https://nationalinfrastructurecommission.wales)|[Mastodon](https://toot.wales/@NICW)|[Pixelfed](https://pix.toot.wales/NICW)|[Linkedin](https://www.linkedin.com/company/26268509/)|[Twitter](https://twitter.com/InfraCommCymru)|
+***
