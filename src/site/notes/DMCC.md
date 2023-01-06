@@ -5,10 +5,8 @@
 Deputy Minister for Climate Change
 
 ### Associated with
-- [[Welsh Government](https://gov.wales)
-	- Post held by [[Lee Waters\|Lee Waters]] from 13 May 2021 - 
-
-
+- [[Welsh Government\|Welsh Government]]
+	- Post held by [[Lee Waters\|Lee Waters]] from 13 May 2021 ([Government webpage](https://www.gov.wales/lee-waters-ms))
 
 ***
 <p style="text-align: center;font-weight:bold";>NICW communication channels</p>
