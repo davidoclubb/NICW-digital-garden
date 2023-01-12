@@ -4,6 +4,8 @@
 
 "The Roads Review Panel advises on current roads projects and how we should consider roads projects in future."
 
+Chaired by [[Lynn Sloman\|Lynn Sloman]]
+
 ### Communication channels
 - [Website](https://www.gov.wales/roads-review-panel)
 
