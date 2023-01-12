@@ -9,6 +9,8 @@
 The National Infrastructure Commission for Wales gives advice on the infrastructure Wales needs. It consists of eight Commissioners and a secretariat.
 
 - List of [[Commissioners\|Commissioners]]
+	- [[Chair\|Chair]]
+	- [[Deputy Chair\|Deputy Chair]]
 
 
 ***
