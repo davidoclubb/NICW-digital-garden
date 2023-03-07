@@ -3,7 +3,6 @@
 ---
 
 
-
 ### Associated with
 - [[Community Energy Wales\|Community Energy Wales]]
 	- Co-executive Director
