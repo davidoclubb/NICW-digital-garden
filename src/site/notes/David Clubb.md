@@ -6,17 +6,23 @@
 
 ### Associated with
 - [[NICW\|NICW]]
-	- [[Chair\|Chair]] from November 2021
+	- [[Chair\|Chair]], November 2021-present
 - [Afallen](https://afallen.cymru)
+	- Partner, 2018-present
 - [Hiraeth Energy](https://hiraethenergy.wales)
+	- Partner, 2021-present
 - [Cardiff National Park City](https://cardiffnpc.cymru/)
+	- Founder Committee Member, 2019-2023
+- [RenewableUK](https://www.renewableuk.com/)
+	- Director, RenewableUK Cymru, 2012-2019
+[- European Environment Agency](https://www.eea.europa.eu/)
+	- Senior project manager, 2010-2012
 
 ### Communication channels
 - [Website](https://clubb.cymru)
 - [Mastodon](https://toot.wales/@davidoclubb)
 - [Pixelfed](https://pixelfed.social/i/web/profile/10708)
 - [LinkedIn](https://www.linkedin.com/in/davidclubb/)
-
 
 ***
 <p style="text-align: center;font-weight:bold";>NICW communication channels</p>
