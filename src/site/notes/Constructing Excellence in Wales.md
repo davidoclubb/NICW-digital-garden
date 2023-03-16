@@ -7,7 +7,7 @@
 
 "Constructing Excellence in Wales is the united voice of the Welsh built environment sector, representing each part of its supply chain. We work with all different elements of construction with both large and small organisations in the public and private sectors to help the industry to improve its performance to deliver better quality and value for money to its clients and end users."
 
-- [Website](https://www.cewales.org.uk/ 
+- [Website](https://www.cewales.org.uk/)
 
 
 ***
