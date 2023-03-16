@@ -15,4 +15,4 @@
 
 󠁧 |[Website](https://nationalinfrastructurecommission.wales)| [Mastodon](https://toot.wales/@NICW) | [Pixelfed](https://pix.toot.wales/NICW) | [Linkedin](https://www.linkedin.com/company/26268509/) | [Twitter](https://twitter.com/InfraCommCymru) |
 ***
-Page last update 26 Jan 2023
+Page last updated 26 Jan 2023
