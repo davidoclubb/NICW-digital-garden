@@ -3,7 +3,7 @@
 ---
 
 
-<img src="http://www.infrastructure-intelligence.com/sites/default/files/styles/large__382_x_254_/public/field/image/John%20Lloyd%20Jones%20headshot%20%28Custom%29.jpg" height="200">
+
 
 ### Associated with
 - [[NICW\|NICW]]
