@@ -6,7 +6,6 @@
 - Being led by [[Eluned Parrott\|Eluned Parrott]] and [[Eurgain Powell\|Eurgain Powell]]
 - Further information is available at the [project page](https://nationalinfrastructurecommission.wales/flooding/)
 
-
 ***
 <p style="text-align: center;font-weight:bold";>NICW communication channels</p>
 
