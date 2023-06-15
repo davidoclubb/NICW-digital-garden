@@ -3,7 +3,16 @@
 ---
 
 
-- [Ministerial statement](https://www.gov.wales/written-statement-net-zero-2035-challenge-group-first-meeting) 
+<img src="https://netzero2035.wales/wp-content/uploads/2023/04/logo.png" height="200">
+
+The ‘Group’, led by former Environment Minister Jane Davidson, is tasked with: 
+
+- finding the best examples of transformative change from Wales and around the world and bringing them to Wales; 
+- challenging the Welsh government and Senedd (Welsh Parliament) to go further and faster; 
+- imagining what a fairer, more sustainable future looks like for the Welsh nation.
+
+### Communication channels
+- [Website](https://netzero2035.wales/) 
 
 
 ***
