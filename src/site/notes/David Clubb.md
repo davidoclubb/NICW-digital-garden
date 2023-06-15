@@ -7,6 +7,8 @@
 ### Associated with
 - [[NICW\|NICW]]
 	- [[Chair\|Chair]], November 2021-present
+- [Graig Fatha windfarm co-operative](https://rippleenergy.com/our-projects/graig-fatha)
+	- Chair, 2018-2019 
 - [Afallen](https://afallen.cymru)
 	- Partner, 2018-present
 - [Hiraeth Energy](https://hiraethenergy.wales)
