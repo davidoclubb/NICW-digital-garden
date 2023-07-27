@@ -13,7 +13,7 @@
 ### How to use
 
 1. Feel free to 'browse' the garden using the links on the left hand side, or the local graph on the right hand side
-2. If you're interested in who we're meeting (and when), you might want to start by clicking on the 'meetings' button in the top left hand side of the menu 
+2. If you're interested in who we're meeting (and when), you might want to start by clicking on the 'Activity' button in the top left hand side of the menu 
 
 ***
 <p style="text-align: center;font-weight:bold";>NICW communication channels</p>
