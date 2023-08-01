@@ -6,7 +6,6 @@
 ### About the NICW digital garden
 
 1. This test site enables us to publish information more regularly and in more detail, to improve transparency about how [[NICW\|NICW]] operates
-2. The site may not be updated or become unavailable. It may be removed without notice.
 3. The content is available in Welsh [here](https://gardd.nationalinfrastructurecommission.wales)
 ### How to use
 
@@ -16,5 +15,5 @@
 ***
 <p style="text-align: center;font-weight:bold";>NICW communication channels</p>
 
-󠁧 |[Website](https://nationalinfrastructurecommission.wales)| [Mastodon](https://toot.wales/@NICW) | [Pixelfed](https://pix.toot.wales/NICW) | [Linkedin](https://www.linkedin.com/company/26268509/) | [Twitter](https://twitter.com/InfraCommCymru) |
+󠁧 |[Website](https://nationalinfrastructurecommission.wales)| [Mastodon](https://toot.wales/@NICW) | [Pixelfed](https://pix.toot.wales/NICW) | [Linkedin](https://www.linkedin.com/company/26268509/) | 
 ***
