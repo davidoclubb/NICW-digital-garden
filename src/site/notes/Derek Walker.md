@@ -3,8 +3,10 @@
 ---
 
 
-
+<img src="https://www.gov.wales/sites/default/files/styles/600x400/public/announcements/2022-12/derek-walker-thumb-v2.jpg?itok=Rviwr9x9">
 ### Associated with
+- [[Commissioner for Future Generations\|Commissioner for Future Generations]]
+	- From 2023
 - [[Cwmpas\|Cwmpas]]
 	- Chief Executive
 
