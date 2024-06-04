@@ -6,6 +6,7 @@
 ### About the NICW digital garden
 
 1. This test site enables us to publish information more regularly and in more detail, to improve transparency about how [[NICW\|NICW]] operates
+2. The test came to an end in May 2024 and is no longer updated. We have kept the site online to demonstrate the proof of concept.
 3. The content is available in Welsh [here](https://gardd.nationalinfrastructurecommission.wales)
 ### How to use
 
